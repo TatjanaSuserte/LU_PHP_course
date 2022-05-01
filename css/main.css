@@ -1,0 +1,15 @@
+/* * {
+    border: 1px solid red;
+  } */
+  
+body{
+    /* background-color:#FEFACB; */
+    height: 1000px;
+    background: radial-gradient(white, #FEFACB);
+}
+
+
+/* .main-content{
+    background-color:#35342f;
+} */
+

@@ -1,0 +1,42 @@
+header{
+    height: 400px;
+    background-image: url(../img/header1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px auto;
+    
+}
+
+.header-name{
+    color:#f8f9fb;
+    font-weight: bold;
+    width: 1600px;
+	height: 100px;
+	background: #0708068c;
+    text-align:center;
+    margin: 100px auto ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+
+.nav{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: #0708068c;
+    margin:auto;
+}
+
+.nav a{
+    color:#f8f9fb;
+    font-weight: bold;
+}
+
+.nav_dec{
+    text-decoration: none;
+    text-transform: uppercase;
+}
